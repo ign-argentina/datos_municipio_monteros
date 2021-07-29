@@ -1,0 +1,59 @@
+{
+  "table": {
+    "isActive": false,
+    "rowsLimit": 5
+  },
+  "charts": {
+    "isActive": true
+  },
+  "metaTags": {
+    "title": "",
+    "description": "",
+    "image": ""
+  },
+  "analytics_ids": [],
+  "excluded_plugins": ["minimap"],
+  "mapConfig": {
+    "center": {
+      "latitude": -27.1796,
+      "longitude": -65.4729
+    },
+    "zoom": {
+      "initial": 13,
+      "min": 3,
+      "max": 21
+    }
+  },
+  "showSearchBar": false,
+  "referencias": {
+    "show": true,
+    "src": "src/styles/images/referencias_icono.png",
+    "width":"25px",
+    "height":"31px"
+  },
+  "theme": {
+    "bodyBackground": "#20425d",
+    "headerBackground": "#20425d",
+    "menuBackground": "#20425d",
+    "activeLayer": "#30a0b6",
+    "textMenu":"white",
+    "textMenuStyle":"",
+    "textLegendMenu":"#9eb7cb",
+    "textLegendMenuStyle":"",
+    "iconBar":"#30a0b6"
+    },
+  "logo": {
+    "src": "src/config/styles/images/logo.png",
+    "height": "60px",
+    "width": "",
+    "style": "",
+    "srcLogoMini": "src/config/styles/images/logo.png",
+    "miniHeight": "60px",
+    "miniWidth": "",
+    "ministyle": ""
+  },
+  "title": "Municipalidad de Monteros - Tucumán",
+  "website": "https://www.monteros.gob.ar/",
+  "favicon": "src/config/styles/images/faviconmonteros.ico"
+}
+
