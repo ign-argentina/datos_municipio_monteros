@@ -16,7 +16,7 @@
   "mapConfig": {
     "center": {
       "latitude": -27.1796,
-      "longitude": -65.4729
+      "longitude": -65.4931
     },
     "zoom": {
       "initial": 13,
@@ -53,7 +53,7 @@
     "miniWidth": "",
     "ministyle": ""
   },
-  "title": "Municipalidad de Monteros - Tucumán",
+  "title": "Visor Mapas Monteros",
   "website": "https://www.monteros.gob.ar/",
   "favicon": "src/config/styles/images/faviconmonteros.ico"
 }
