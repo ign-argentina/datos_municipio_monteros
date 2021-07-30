@@ -118,6 +118,18 @@
       "host": "https://monteros.ign.gob.ar/geoserver/seguridad"
     },
     {
+      "id": "salud-y-educacion",
+      "type": "wmslayer",
+      "peso": 40,
+      "nombre": "Salud y educación",
+      "short_abstract": "Objetos de gestión sanitaria y educativa",
+      "class": "",
+      "seccion": "salud-y-educacion",
+      "servicio": "wms",
+      "version": "1.3.0",
+      "host": "https://monteros.ign.gob.ar/geoserver/salud-y-educacion"
+    },
+    {
       "id": "geografia-fisica",
       "type": "wmslayer",
       "peso": 45,

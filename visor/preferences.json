@@ -43,6 +43,7 @@
     "iconBar":"#30a0b6"
     },
   "logo": {
+    "title":"Municipalidad de Monteros - Tucumán",
     "src": "src/config/styles/images/logo.png",
     "height": "60px",
     "width": "",
